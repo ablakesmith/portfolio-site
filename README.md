@@ -2,8 +2,6 @@
 
 ## User stories
 
-### User
-
 ```
 AS A software developer
 I WANT TO ...
