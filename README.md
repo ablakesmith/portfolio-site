@@ -4,7 +4,7 @@
 
 ### User
 
-'''
+```
 AS A software developer
 I WANT TO ...
 SO THAT ...
